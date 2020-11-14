@@ -2,7 +2,7 @@
 
 O IHFA (Índice de Hedge Funds ANBIMA) é uma referência para a indústria de hedge funds. No Brasil, esses produtos se assemelham aos fundos multimercado de gestão ativa, com aplicações em diversos segmentos do mercado e várias estratégias de investimento.
 
-O índice conta com os fundos mais representativos do segmento em sua carteira e pPara garantir a representatividade, o IHFA é ajustado trimestralmente, seguindo os seguintes critérios qualitativos e quantitativos:
+O índice conta com os fundos mais representativos do segmento em sua carteira e para garantir a representatividade, o IHFA é ajustado trimestralmente, seguindo os seguintes critérios qualitativos e quantitativos:
 
 - Seleção apenas dos fundos multimercados que estejam enquadrados nessa classe há mais de um ano.
 - Exclusão dos fundos fechados, dos exclusivos e daqueles que não cobram taxa de performance.
@@ -21,10 +21,10 @@ Fontes:
 - Histórico IBOV, IFIX e Dólar: https://br.investing.com/
 
 Output files:
-- Ano de origem dos fundos: fundos_por_ano.png
-- Fundos mais antigos: fundos_mais_antigos.png
-- Relação Retorno x Volatilidade: retorno-vol.png
 - Indicadores: retorno_tabela.png
+- Relação Retorno x Volatilidade: retorno-vol.png
+- Fundos mais antigos: fundos_mais_antigos.png
+- Quantidade de fundos por ano de origem: fundos_por_ano.png
 
 TODO:
 - Obter dados do IHFA desde mai/2008 (origem do índice). Até o momento só possuo desde de nov/2012
@@ -38,5 +38,5 @@ TODO:
 ## Fundos mais antigo
 ![Screenshot](fundos_mais_antigos.png)
 
-## Ano de origem dos fundos presente no índice
+## Quantidade de fundos presente no índice por ano de origem
 ![Screenshot](fundos_por_ano.png)
