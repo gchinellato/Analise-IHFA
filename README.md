@@ -35,8 +35,8 @@ TODO:
 ## Relação Retorno x Volatilidade dos fundos presente no índice 
 ![Screenshot](retorno-vol.png)
 
-## Fundos mais antigo
+## Fundos mais antigos
 ![Screenshot](fundos_mais_antigos.png)
 
-## Quantidade de fundos presente no índice por ano de origem
+## Quantidade de fundos presente no índice por ano de criação
 ![Screenshot](fundos_por_ano.png)
